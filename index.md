@@ -1,5 +1,5 @@
 ---
 layout: home
-image: assets/images/one-banner.png
+image: assets/images/one-banner.jpg
 ---
 
