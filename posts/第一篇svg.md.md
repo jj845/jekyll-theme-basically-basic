@@ -1,16 +1,16 @@
 
 ---
+layout: page
 title: svg之会飞的火车
 excerpt_separator: "<!--more-->"
 categories:
   - SVG笔记.md
   tags:
   - SVG.md
+  ---
 
----
-#### 点击看详情哦~
 
-<!--more-->
+
 #### 会飞起来的svg你见过吗~
 
 #### 下面是源代码
