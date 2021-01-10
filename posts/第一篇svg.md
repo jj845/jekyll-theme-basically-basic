@@ -1,11 +1,12 @@
 ---
 layout: page
-title: svg之会飞的火车
+title: 会飞的火车
+date: 2021-01-07
 excerpt_separator: "<!--more-->"
 categories:
-  - SVG笔记
-  tags:
-  - SVG
+        - SVG制作
+tages:
+   - svg
 ---
 <!--more-->
 #### 会飞起来的svg你见过吗~
@@ -116,9 +117,7 @@ categories:
   <head>
  <meta charset="utf-8">
  <style>
- 
-	/* Check out my article on how to create this: https://roboleary.net/css/2020/11/17/parallax-animation.html */
-* {
+  {
   box-sizing: border-box;
 }
 
