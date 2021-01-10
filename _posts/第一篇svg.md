@@ -1,15 +1,14 @@
 ---
-layout: page
 title: 会飞的火车
 date: 2021-01-07
 excerpt_separator: "<!--more-->"
 categories:
-        - SVG制作
-tages:
-   - svg
+        _SVG制作
+
 ---
-<!--more-->
+
 #### 会飞起来的svg你见过吗~
+<!--more-->
 
 #### 下面是源代码
 ```
