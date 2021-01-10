@@ -5,5 +5,4 @@ layout: category
 permalink: /categories/SVG笔记/
 taxonomy: SVG笔记
 ---
-
-分类《SVG笔记》下的文章：
+分类《svg笔记》下的文章：
