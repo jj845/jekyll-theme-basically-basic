@@ -4,6 +4,8 @@ title: svg之会飞的火车
 excerpt_separator: "<!--more-->"
 categories:
   - SVG笔记
+  tags:
+  - SVG
 
 ---
 #### 点击看详情哦~
