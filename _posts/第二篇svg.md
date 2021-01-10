@@ -1,12 +1,8 @@
 ---
-layout: page
 title: 移动变色的樱花
-date: 2021-01-07
 excerpt_separator: "<!--more-->"
 categories:
-        - SVG制作
-tages:
-   - svg
+ _ SVG制作
 ---
 你知道吗？樱花会变色哦！
 <!--more-->

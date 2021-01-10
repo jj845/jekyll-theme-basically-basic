@@ -1,10 +1,8 @@
 ---
 title: 会飞的火车
-date: 2021-01-07
 excerpt_separator: "<!--more-->"
 categories:
-        _SVG制作
-
+ _ SVG制作
 ---
 
 #### 会飞起来的svg你见过吗~
