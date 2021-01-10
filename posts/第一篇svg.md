@@ -4,12 +4,12 @@ layout: page
 title: svg之会飞的火车
 excerpt_separator: "<!--more-->"
 categories:
-  - SVG笔记.md
+  - SVG笔记
   tags:
-  - SVG.md
-  ---
+  - SVG
+---
 
-
+<!--more-->
 
 #### 会飞起来的svg你见过吗~
 
