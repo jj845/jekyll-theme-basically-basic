@@ -1,7 +1,7 @@
 ---
 title: 移动变色的樱花
 excerpt_separator: "<!--more-->"
-categories: _ SVG制作
+categories: _ SVG笔记
 ---
 你知道吗？樱花会变色哦！
 <!--more-->
