@@ -22,8 +22,9 @@ categories:
 ```
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
 ```
-1.那这行代码有什么好处呢？
-2.它可以让你的网页适用于手机端
+那这行代码有什么好处呢？
+
+它可以让你的网页适用于手机端
 
 #### 其次，便是不能把宽度设成绝对，不然无法变化
 源代码
@@ -38,10 +39,12 @@ html{font-size:62.5%;}
 body {font:normal 100% Arial,sans-serif;font-size:14px; font-size:1.4rem; }
 ```
 但为什么是62.5%呢？
+
 其实道理很简单，我们的浏览器默认字体大小是16px，而1rem=10px,10/16=62.5%，这样子可以让计算更加方便
 
 #### 第四，流动布局
 从字面上来讲，就是你网页上的每个区块应该是灵活，而不是死板地固定在那里
+
 源代码
 ```
 .left{ width:30%; float:left} 
@@ -51,6 +54,7 @@ body {font:normal 100% Arial,sans-serif;font-size:14px; font-size:1.4rem; }
 
 #### 第五，图片的缩放
 在一个网页当中，不可缺少的便是图片，让图片随着屏幕大小变化而变化，也是十分重要的。
+
 源代码
 ```
 img, object {max-width: 100%;}
@@ -68,6 +72,7 @@ background-color: red;
 }
 ```
 怎么解释呢
+
 就是如果媒体类型屏幕的可视窗口宽度小于 480 px ，背景颜色变为红色。
 
 ##### 另外一种，也是我们最常用的一种，便是link
