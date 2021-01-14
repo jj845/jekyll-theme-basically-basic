@@ -1,5 +1,5 @@
 ---
-title: do 网站吧~
+title: 看淘宝，学网站设计！
 excerpt_separator: "<!--more-->"
 categories:
  _ 网站设计
