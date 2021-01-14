@@ -17,7 +17,7 @@ categories:
 
 - 有下栏菜单，减少视觉上的缭乱，同时也方便用户查找自己想要的东西
 
-![下栏菜单](/assets/images/xialancaidan.png)
+![下栏菜单](/assets/images/xialancaidan.jpg)
 
 ### 再说说具体的吧
 - 我们把这样一个个的由图片和文字组成的称之为盒子，盒子大小和每个盒子之间距离要做到合理，让人视觉上产生美感。因而我们要设置具体box-sizing:border-box以设计盒子宽度（包括padding）
