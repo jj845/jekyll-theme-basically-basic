@@ -23,11 +23,11 @@ categories:
 
 **先看看这个**
 
-![web](/pengdanmin/tree/pp/assets/images/webbuju.jpeg)
+![web](/pengdanmin/tree/blob/pp/assets/images/webbuju.jpg)
 
 **当屏幕缩到一定程度，它就发生了变化**
 
-![web](/pengdanmin/tree/pp/assets/images/webbuju2.jpeg)
+![web](/pengdanmin/tree/blob/pp/assets/images/webbuju2.jpg)
 
 这就是响应式布局设计！
 
