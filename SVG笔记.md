@@ -1,6 +1,7 @@
 ---
 title: SVG笔记
 layout: category
+image: assets/images/banner_svg.png
 permalink: /categories/SVG笔记/
 taxonomy: SVG笔记
 ---
