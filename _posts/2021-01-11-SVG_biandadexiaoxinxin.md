@@ -2,6 +2,8 @@
 title: 碰一下，会怦然心动哦
 excerpt_separator: "<!--more-->"
 categories: _ SVG笔记
+tags:
+  -svg
 ---
 试试哦，会变大和转动的小心心哦~
 <!--more-->
