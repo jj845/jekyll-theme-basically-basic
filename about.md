@@ -13,7 +13,7 @@ title: 关于我
 - 进入了聚焦影视社，学会写脚本和剧本
 
 ### 个人项目
-#### [项目一]制作个人简历(https://sawgfrvg.gitee.io/resume/)
+#### [项目一]制作个人简历  [个人简历](https://sawgfrvg.gitee.io/resume/)
 - [成就]完成第一个自己做的网页
 - [作用]学会了HTML5和CSS3的应用
 
